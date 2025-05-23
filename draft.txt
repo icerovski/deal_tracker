@@ -1,0 +1,9 @@
+# Write each entry on a new line using the format:
+# Project {Project_Name} [EntryType]: Entry text with optional #tags
+#
+# Valid entry types: Financial, Meeting, Legal, Dd, Note
+# Example:
+# Project Titan [Meeting]: Met with EDF to discuss the new timeline. #grid #PPA
+#
+# After you save and close this file, the entries will be automatically logged to the database and this file will be deleted.
+
